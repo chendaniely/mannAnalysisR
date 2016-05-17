@@ -1,0 +1,10 @@
+Package: mannAnalysisR
+Type: Package
+Title: MANN Simulation Analysis Tools
+Version: 0.0.1
+Author: Daniel Chen
+Maintainer: Daniel Chen <chend@vt.edu>
+Description: Set of tools to analyze MANN output
+License: MIT
+LazyData: TRUE
+RoxygenNote: 5.0.1
